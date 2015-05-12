@@ -9,4 +9,6 @@ District Heath Board boundary (2012) and other data.
 
 [Maps with Leaflet, TopoJSON & Chroma.js](http://blog.webkid.io/maps-with-leaflet-and-topojson/)
 
+[topoJSON-aware Leaflet layer](https://gist.github.com/rclark/5779673)
+
 [Mapbox](https://www.mapbox.com/)
