@@ -1,0 +1,1 @@
+topojson --simplify-proportion 0.1 -p -o DHB2012-S1.json DHB2012.json
